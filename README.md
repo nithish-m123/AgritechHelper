@@ -103,7 +103,10 @@ git clone https://github.com/nithish-m123/Agritech.git
 ---
 
 ## 📸 **Screenshots**  
+🔐✅**Authentication** 
+![Login page](AgritechImages/FarmerLoginPage.png)  
 
+![SignUp page](AgritechImages/FarmerSignUpPage.png)  
 🚜 **AgriTech Dashboard**  
 ![Dashboard](AgritechImages/FarmerInterface.png)  
 
@@ -113,6 +116,8 @@ git clone https://github.com/nithish-m123/Agritech.git
 🌾 **Land Rental System**  
 ![Land Rental](AgritechImages/RentALand.png)  
 
+🚜👨‍🌾 **Tractor Owner Interface** 
+![Owner Interface](AgritechImages/TractorOwnerInterface.png)  
 ---
 
 ## 🔥 **Future Enhancements**  
