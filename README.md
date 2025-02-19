@@ -69,7 +69,7 @@
 🏡 **For Land Renters**  
 1️⃣ Browse available land for **farming rental**.  
 2️⃣ Select a **suitable plot** and rent it.  
-3️⃣ Complete the payment securely.  
+  
 
 ---
 
