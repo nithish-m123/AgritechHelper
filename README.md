@@ -83,7 +83,7 @@
 ### 🔹 **Steps to Run the Project**  
 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/nithish-m123/Agritech.git
+git clone https://github.com/nithish-m123/AgritechHelper.git
 ```  
 2️⃣ **Import the Project**  
 - Open **NetBeans IDE**  
@@ -105,19 +105,33 @@ git clone https://github.com/nithish-m123/Agritech.git
 ## 📸 **Screenshots**  
 🔐✅**Authentication** 
 ![Login page](AgritechImages/FarmerLoginPage.png)  
-
+- Here Farmer Enter Credentials and completes Authentication.
+  
+🔐✅**Registration** 
 ![SignUp page](AgritechImages/FarmerSignUpPage.png)  
+- Here farmer registers new account.
+
+
 🚜 **AgriTech Dashboard**  
 ![Dashboard](AgritechImages/FarmerInterface.png)  
 
+-This is Farmer Home page.
+
 📅 **Tractor Booking Interface**  
 ![Booking](AgritechImages/TractorBooking.png)  
+- Here green color slots are already booked, if u click on it it shows pane message " This slot is already booked".
+- Farmer selects slots and book tractor successfully.
 
 🌾 **Land Rental System**  
 ![Land Rental](AgritechImages/RentALand.png)  
+-Here it shows land available for rent.
 
 🚜👨‍🌾 **Tractor Owner Interface** 
 ![Owner Interface](AgritechImages/TractorOwnerInterface.png)  
+
+- This is Tractor owner interface, he has two main functions.
+- one -> can see today bookings
+- two -> if his/her tractor not registeres add a tractor info.
 ---
 
 ## 🔥 **Future Enhancements**  
