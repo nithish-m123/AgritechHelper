@@ -91,10 +91,10 @@ git clone https://github.com/nithish-m123/AgritechHelper.git
 
 3️⃣ **Set Up MySQL Database**  
 - Create a new database in **MySQL**.  
-- Import the provided **`agritech_db.sql`** file.  
+- Import the provided **`AgritechSQLdatabase/agritech.sql`** file.  
 
 4️⃣ **Configure Database Connection**  
-- Update **`DBConnection.java`** with your MySQL credentials.  
+- Update **`DataResource.java`** with your MySQL credentials.  
 
 5️⃣ **Run the Project**  
 - Build and run the project in **NetBeans**.  
@@ -131,7 +131,7 @@ git clone https://github.com/nithish-m123/AgritechHelper.git
 
 - This is Tractor owner interface, he has two main functions.
 - one -> can see today bookings
-- two -> if his/her tractor not registeres add a tractor info.
+- two -> if his/her tractor not registered add a tractor info.
 ---
 
 ## 🔥 **Future Enhancements**  
