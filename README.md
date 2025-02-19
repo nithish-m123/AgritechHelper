@@ -64,7 +64,7 @@
 🚜 **For Tractor Owners**  
 1️⃣ Register tractors and equipment.  
 2️⃣ Define **availability and pricing**.  
-3️⃣ Manage bookings and receive payments securely.  
+3️⃣ Manage bookings . 
 
 🏡 **For Land Renters**  
 1️⃣ Browse available land for **farming rental**.  
@@ -105,13 +105,13 @@ git clone https://github.com/nithish-m123/Agritech.git
 ## 📸 **Screenshots**  
 
 🚜 **AgriTech Dashboard**  
-![Dashboard](screenshots/dashboard.png)  
+![Dashboard](AgritechImages/FarmerInterface.png)  
 
 📅 **Tractor Booking Interface**  
-![Booking](screenshots/tractor_booking.png)  
+![Booking](AgritechImages/TractorBooking.png)  
 
 🌾 **Land Rental System**  
-![Land Rental](screenshots/land_rental.png)  
+![Land Rental](AgritechImages/RentALand.png)  
 
 ---
 
@@ -153,4 +153,3 @@ git clone https://github.com/nithish-m123/Agritech.git
 
 ---
 
-This **README** now looks visually appealing with **icons, symbols, badges, and a structured layout**. You can copy and paste this directly into your `README.md` file on GitHub. 🚀
