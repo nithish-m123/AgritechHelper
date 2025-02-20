@@ -29,7 +29,7 @@
 
 ### 🌾 **Land Rental System**  
 ✔️ Farmers can **list unused land** for rent with price, location, and size.  
-✔️ Other farmers can browse, **rent land**, and pay securely online.  
+✔️ Other farmers can browse, **rent land**, and rent a land for farming.  
 
 ### 👨‍🌾 **Tractor Owner Registration**  
 ✔️ Tractor owners can **register their tractors and equipment**.  
