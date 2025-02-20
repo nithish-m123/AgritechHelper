@@ -17,7 +17,6 @@
 ✔️ Farmers struggling to rent tractors on time.  
 ✔️ Difficulty in finding required farming machinery.  
 ✔️ Managing land rentals for farming purposes.  
-✔️ Secure online payments for hassle-free transactions.  
 
 ---
 
